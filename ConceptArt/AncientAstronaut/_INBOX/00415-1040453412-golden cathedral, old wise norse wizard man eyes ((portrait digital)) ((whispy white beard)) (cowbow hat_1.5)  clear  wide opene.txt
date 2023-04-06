@@ -1,0 +1,2 @@
+golden cathedral, old wise norse wizard man eyes ((portrait digital)) ((whispy white beard)) (cowbow hat:1.5)  clear  wide openeyes
+Steps: 32, Sampler: DDIM, CFG scale: 10, Seed: 1040453412, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.4, Mask blur: 4

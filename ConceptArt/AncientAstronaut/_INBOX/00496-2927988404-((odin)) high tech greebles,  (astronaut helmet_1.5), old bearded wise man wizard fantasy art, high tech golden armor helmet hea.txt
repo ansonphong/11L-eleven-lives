@@ -1,0 +1,2 @@
+((odin)) high tech greebles,  (astronaut helmet:1.5), old bearded wise man wizard fantasy art, high tech golden armor helmet headdress, greek statue, sun emblem
+Steps: 32, Sampler: DDIM, CFG scale: 10, Seed: 2927988404, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.62, Mask blur: 4

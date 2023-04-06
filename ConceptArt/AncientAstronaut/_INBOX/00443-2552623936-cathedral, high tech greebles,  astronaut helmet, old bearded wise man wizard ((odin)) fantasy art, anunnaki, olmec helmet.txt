@@ -1,0 +1,2 @@
+cathedral, high tech greebles,  astronaut helmet, old bearded wise man wizard ((odin)) fantasy art, anunnaki, olmec helmet
+Steps: 32, Sampler: DDIM, CFG scale: 16, Seed: 2552623936, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.5, Mask blur: 4

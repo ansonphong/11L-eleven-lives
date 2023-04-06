@@ -1,0 +1,2 @@
+high tech patterns
+Steps: 32, Sampler: DDIM, CFG scale: 16, Seed: 2707591003, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.25, Mask blur: 4

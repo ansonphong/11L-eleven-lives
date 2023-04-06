@@ -1,0 +1,2 @@
+golden cathedral, old wise norse wizard ((portrait digital)) ((anime eyes)) ((whispy white beard)) ((butterfleyes))
+Steps: 32, Sampler: DDIM, CFG scale: 8, Seed: 2541676676, Size: 1024x1024, Model hash: 56325768eb, Denoising strength: 0.25, Mask blur: 4
