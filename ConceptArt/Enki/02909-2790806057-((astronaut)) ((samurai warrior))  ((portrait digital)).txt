@@ -1,0 +1,2 @@
+((astronaut)) ((samurai warrior))  ((portrait digital))
+Steps: 24, Sampler: DDIM, CFG scale: 7.5, Seed: 2790806057, Size: 768x768, Model hash: 56325768eb
