@@ -1,0 +1,2 @@
+Poseidon trident of Zeus and Shiva trident
+Steps: 20, Sampler: Euler a, CFG scale: 18, Seed: 2967311749, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.75, Mask blur: 4

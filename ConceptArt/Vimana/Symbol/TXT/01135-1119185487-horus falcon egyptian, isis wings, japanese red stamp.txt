@@ -1,0 +1,2 @@
+horus falcon egyptian, isis wings, japanese red stamp
+Steps: 32, Sampler: DDIM, CFG scale: 15, Seed: 1119185487, Size: 512x512, Model hash: 14749efc0a, Denoising strength: 0.95, Mask blur: 4

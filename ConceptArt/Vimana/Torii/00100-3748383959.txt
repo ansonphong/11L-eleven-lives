@@ -1,0 +1,3 @@
+torii gates, crescent moon, blueprints, technical electrical plans, (ufo, vimana spacecraft, flying saucer,  starship:0.8) black background, blueprint grid, blue grid, star command, sumerian cuneiform, sanskrit mantras, power station, hindu temple blueprints, temple design, lotus flower, hieroglyphics, Tibetan thangka, sun, starship,  starlight, pagoda, blue background, deep space stars background, shinto shrine, torii gates,  (eye of horus, metatrons cube, egyptian spaceship, hindu temple, thailand temple:0.8) technical plans for a spaceship,
+Negative prompt: watermark, signature
+Steps: 32, Sampler: Euler a, CFG scale: 15, Seed: 3748383959, Size: 1812x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

@@ -1,0 +1,2 @@
+hawk wings, bird wing, japanese red stamp, circle symbol, japanese kamon, totem pole, northwest coast art, US air force logo
+Steps: 32, Sampler: DDIM, CFG scale: 7, Seed: 2812332278, Size: 512x512, Model hash: 14749efc0a, Denoising strength: 0.95, Mask blur: 4

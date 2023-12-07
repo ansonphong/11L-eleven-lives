@@ -1,0 +1,2 @@
+a drawing of a dragon on a piece of paper, skin detail, alphonse mucha and craig mullins, feathered, haida, digital collage, behance contest winner, david mack, detail shot, cardboard, in the art style of quetzecoatl, detail, tribal ancient imagery
+Steps: 24, Sampler: DDIM, CFG scale: 4, Seed: 955899674, Size: 768x768, Model hash: 85ca6acf2d, Version: v1.5.1

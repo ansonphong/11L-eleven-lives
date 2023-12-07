@@ -1,0 +1,3 @@
+bird wings, hawk wings,  ancient red circle symbol, japanese kamon, totem pole, northwest coast art, horus falcon egyptian, red rubber stamp
+Negative prompt: watermark, digital portrait
+Steps: 24, Sampler: DDIM, CFG scale: 10, Seed: 2745180287, Size: 768x768, Model hash: 56325768eb, Denoising strength: 0.7, Mask blur: 4

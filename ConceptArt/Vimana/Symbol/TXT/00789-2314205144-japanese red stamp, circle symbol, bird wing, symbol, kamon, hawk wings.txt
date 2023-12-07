@@ -1,0 +1,2 @@
+japanese red stamp, circle symbol, bird wing, symbol, kamon, hawk wings
+Steps: 20, Sampler: DDIM, CFG scale: 7, Seed: 2314205144, Size: 512x512, Model hash: 14749efc0a, Denoising strength: 0.8, Mask blur: 4

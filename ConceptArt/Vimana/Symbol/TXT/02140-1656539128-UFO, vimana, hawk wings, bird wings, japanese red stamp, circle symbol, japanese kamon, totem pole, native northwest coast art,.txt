@@ -1,0 +1,2 @@
+UFO, vimana, hawk wings, bird wings, japanese red stamp, circle symbol, japanese kamon, totem pole, native northwest coast art, isis wings
+Steps: 32, Sampler: DDIM, CFG scale: 13, Seed: 1656539128, Size: 512x512, Model hash: 14749efc0a, Denoising strength: 0.95, Mask blur: 4

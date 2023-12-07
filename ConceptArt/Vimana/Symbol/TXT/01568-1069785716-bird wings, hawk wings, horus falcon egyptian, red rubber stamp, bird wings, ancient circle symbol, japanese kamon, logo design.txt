@@ -1,0 +1,3 @@
+bird wings, hawk wings, horus falcon egyptian, red rubber stamp, bird wings, ancient circle symbol, japanese kamon, logo design
+Negative prompt: watermark
+Steps: 32, Sampler: DDIM, CFG scale: 15, Seed: 1069785716, Size: 512x512, Model hash: 14749efc0a, Denoising strength: 0.9, Mask blur: 4
