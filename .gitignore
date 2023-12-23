@@ -3,6 +3,9 @@ __INPUT/
 __OUTPUT/
 __UPSAMPLE/
 
+# Photoshop Large Images
+*.psb
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
