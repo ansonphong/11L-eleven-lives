@@ -1,0 +1,2 @@
+(brave young black man, soft features, elegant eyes, sketch concept art layout of a young african black leader, horus, Egyptian blueprint: 2) muslim black cap, short hair, brown eyed tribal warrior man, (african village leader:1.8), (sketch of a black african thoth: 2) john singer sargent, leonardo davinci, lion heart, lion mane, refined black braided dreadlocks, bandana, turbin, George B. Bridgman
+Steps: 32, Sampler: Euler a, CFG scale: 3, Seed: 1887656196, Size: 1024x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

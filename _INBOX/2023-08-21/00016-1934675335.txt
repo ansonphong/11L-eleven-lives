@@ -1,0 +1,2 @@
+blueprints of a high wheeler penny farthing bike, concept art, UFO,  torii gate, sketch by leonardo davinci, on even ground, thick lines, distinct engineering architectural drawings
+Steps: 24, Sampler: Euler a, CFG scale: 12, Seed: 1934675335, Size: 1024x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

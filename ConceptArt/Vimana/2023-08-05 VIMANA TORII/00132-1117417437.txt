@@ -1,0 +1,2 @@
+blueprints, technical electrical plans, ufo, vimana spacecraft, flying saucer, hindu temple, thailand temple, starship, black background, blueprint grid, star command, sumerian cuneiform, sanskrit sigil, hieroglyphics, sun and moon, golden star glow
+Steps: 24, Sampler: Euler a, CFG scale: 14, Seed: 1117417437, Size: 1816x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

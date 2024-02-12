@@ -1,0 +1,2 @@
+giant gilgamesh anunnaki in the ((cedar forest)) of shamash, concept art, illustration by sparth
+Steps: 24, Sampler: Euler a, CFG scale: 7, Seed: 1390832992, Size: 1024x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

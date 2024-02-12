@@ -1,0 +1,2 @@
+blueprints, ufo, vimana spacecraft, flying saucer, hindu temple, thailand temple, starship, black dark starry night background, blueprint grid, star command, sumerian cuneiform, sanskrit sigil, hieroglyphics, sun and moon, golden star, mayan calendar, gritty paper texture from a blueprint paper
+Steps: 24, Sampler: Euler a, CFG scale: 14, Seed: 355258696, Size: 1024x1024, Model hash: 1f69731261, Model: sd_xl_base_0.9, Version: v1.4.1-201-g14cf434b

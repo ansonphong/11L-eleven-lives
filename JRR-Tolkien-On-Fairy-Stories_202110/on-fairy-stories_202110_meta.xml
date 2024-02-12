@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>on-fairy-stories_202110</identifier>
+  <mediatype>texts</mediatype>
+  <collection>opensource</collection>
+  <collection>community</collection>
+  <creator>J. R. R. Tolkien</creator>
+  <description>&lt;span style="color:rgb(44,44,44);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);"&gt;J. R. R. Tolkien's essay on artistic activity and fantasy as literature.&lt;/span&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>fantasy</subject>
+  <subject>fairy tales</subject>
+  <subject>fairytales</subject>
+  <subject>art</subject>
+  <subject>literature</subject>
+  <subject>tolkien</subject>
+  <subject>secondary world</subject>
+  <subject>subcreation</subject>
+  <subject>sub-creation</subject>
+  <title>On Fairy-Stories</title>
+  <uploader>aristarchusinexile@protonmail.com</uploader>
+  <publicdate>2021-10-10 10:01:09</publicdate>
+  <addeddate>2021-10-10 10:01:09</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20211010100626[/date][comment]checked for malware[/comment]</curation>
+  <identifier-access>http://archive.org/details/on-fairy-stories_202110</identifier-access>
+  <identifier-ark>ark:/13960/t6vz2xp74</identifier-ark>
+  <ppi>300</ppi>
+  <ocr>tesseract 5.0.0-beta-20210815</ocr>
+  <ocr_parameters>-l eng</ocr_parameters>
+  <ocr_module_version>0.0.13</ocr_module_version>
+  <ocr_detected_script>Latin</ocr_detected_script>
+  <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+  <ocr_detected_lang>en</ocr_detected_lang>
+  <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+</metadata>

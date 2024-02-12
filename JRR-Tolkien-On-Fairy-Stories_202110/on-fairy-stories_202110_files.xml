@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="J. R. R. Tolkien - On Fairy-Stories.epub" source="derivative">
+    <original>J. R. R. Tolkien - On Fairy-Stories_hocr.html</original>
+    <mtime>1699454862</mtime>
+    <size>80712</size>
+    <md5>154078d56191d14eff263c5401a5876c</md5>
+    <crc32>822a9f58</crc32>
+    <sha1>dbaf67dc7235299af18bbd3400d854d41a219a24</sha1>
+    <format>EPUB</format>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories.pdf" source="original">
+    <mtime>1633860044</mtime>
+    <size>560795</size>
+    <md5>0cbe146bcdc3e451b98d71b3ce8c6258</md5>
+    <crc32>9da2bafd</crc32>
+    <sha1>b4c885252a257819173777784d6adb1ce0aca8d4</sha1>
+    <format>Text PDF</format>
+    <viruscheck>1633860386</viruscheck>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.0.0-beta-20210815</ocr>
+    <ocr_parameters>-l eng</ocr_parameters>
+    <ocr_module_version>0.0.13</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_jp2.zip</original>
+    <mtime>1633861153</mtime>
+    <size>1631421</size>
+    <md5>dcb6749184f9f3a69f4e0c8f9ba70d56</md5>
+    <crc32>6b38c328</crc32>
+    <sha1>ae95e7db645692159aefa2dd1d8fd1c3668090c6</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_djvu.xml</original>
+    <mtime>1633861420</mtime>
+    <size>128682</size>
+    <md5>c865f0c4ed9fe5bd646ab6748b73755f</md5>
+    <crc32>5d30fd44</crc32>
+    <sha1>204fd4a3cfa385e2c69f6a8e56bb24aac68983c3</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_hocr.html</original>
+    <mtime>1633861308</mtime>
+    <size>1683683</size>
+    <md5>f7c205d10d1ad44eb38f43c77d868020</md5>
+    <crc32>660fbcf0</crc32>
+    <sha1>124e40b1a83d20f8e7d777709a7ebb03a66add09</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.0.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.2</hocr_char_to_word_hocr_version>
+    <ocr_parameters>-l eng</ocr_parameters>
+    <ocr_module_version>0.0.13</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_chocr.html.gz</original>
+    <mtime>1633861285</mtime>
+    <size>2983471</size>
+    <md5>4759cd94011be2767d43929d3863d9aa</md5>
+    <crc32>599d33f0</crc32>
+    <sha1>6f0b35e6c40a98da74b85845d057afc2bb969d63</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.0</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_hocr.html</original>
+    <mtime>1633861347</mtime>
+    <size>501</size>
+    <md5>40c2ab7bcad21c35f86ec3d7ee313fdc</md5>
+    <crc32>8dc69893</crc32>
+    <sha1>1805be303cf8031eca5e4b4e413531df5c65ac96</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.0</hocr_fts_text_hocr_version>
+    <word_conf_0_10>3</word_conf_0_10>
+    <word_conf_11_20>1</word_conf_11_20>
+    <word_conf_21_30>2</word_conf_21_30>
+    <word_conf_31_40>4</word_conf_31_40>
+    <word_conf_41_50>14</word_conf_41_50>
+    <word_conf_51_60>8</word_conf_51_60>
+    <word_conf_61_70>17</word_conf_61_70>
+    <word_conf_71_80>19</word_conf_71_80>
+    <word_conf_81_90>216</word_conf_81_90>
+    <word_conf_91_100>21854</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_hocr.html</original>
+    <mtime>1633861404</mtime>
+    <size>48579</size>
+    <md5>a9a087a3da7e63007961ea05e90fe9eb</md5>
+    <crc32>9bd6269f</crc32>
+    <sha1>c516aae6b3f677310a486241765b747b8c5e2567</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories.pdf</original>
+    <mtime>1633860594</mtime>
+    <size>28226355</size>
+    <md5>1d7ee2a88f38ea1df62ee5b324a655ea</md5>
+    <crc32>a1e02b70</crc32>
+    <sha1>a432170ea0375d0f53387304d2b713a2624c960e</sha1>
+    <filecount>41</filecount>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_djvu.xml</original>
+    <mtime>1633861460</mtime>
+    <size>6004</size>
+    <md5>15f40c9ee1f9b14e1861ba4caeb2b18d</md5>
+    <crc32>f14d9686</crc32>
+    <sha1>763bf0a20caafcc92e78e511062ef65302989a6a</sha1>
+  </file>
+  <file name="J. R. R. Tolkien - On Fairy-Stories_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>J. R. R. Tolkien - On Fairy-Stories_djvu.xml</original>
+    <mtime>1633861456</mtime>
+    <size>13345</size>
+    <md5>2a8a353a63fb273d26f359ceaa85cc7e</md5>
+    <crc32>f1573da9</crc32>
+    <sha1>76317f5e0ff2abbe0fe1ab8e2b82f23d7f8c7755</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1699454863</mtime>
+    <size>11960</size>
+    <md5>45a10066527c01cda4d9138f0efb64a8</md5>
+    <crc32>e15cff6c</crc32>
+    <sha1>0c788ac1a983c48642e25f7b1b607b32e1452f2b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="on-fairy-stories_202110_archive.torrent" source="metadata">
+    <btih>5c9112df62cb3031b4b4535809395865d8c2259e</btih>
+    <mtime>1699454864</mtime>
+    <size>5312</size>
+    <md5>715a9d263931dfdfb46fc41a63d8c7a4</md5>
+    <crc32>e42ab68b</crc32>
+    <sha1>81ee3597c0544ac6d3eedc6deb2bac7d5f2745fc</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="on-fairy-stories_202110_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e150fde6fd6e63476cf7f48c13aed7c1</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="on-fairy-stories_202110_meta.sqlite" source="original">
+    <mtime>1633860075</mtime>
+    <size>20480</size>
+    <md5>2901ed89c68d04c84fb1927b42156796</md5>
+    <crc32>9823e80b</crc32>
+    <sha1>ba08c4f3ebb13e99dd8d31f45bf990866c45d80b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="on-fairy-stories_202110_meta.xml" source="original">
+    <mtime>1633861405</mtime>
+    <size>1718</size>
+    <md5>b741c1a293ada5daa9121bcfaabf4065</md5>
+    <crc32>651e10b5</crc32>
+    <sha1>2208b522cb3c8049a6b631d4e5660a29f03138ab</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
